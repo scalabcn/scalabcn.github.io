@@ -11,7 +11,7 @@ We are committed to providing a friendly, safe and welcoming environment for all
 
 # Our Standards
 
-*Whether you’re a regular contributor or a newcomer, we care about making this community a welcoming and safe place for you and we’ve got your back.*
+**Whether you’re a regular contributor or a newcomer, we care about making this community a welcoming and safe place for you and we’ve got your back.**
 
 As a member of the community, you agree to the following:
 
