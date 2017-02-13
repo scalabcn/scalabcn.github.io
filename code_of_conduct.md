@@ -32,7 +32,7 @@ As a member of the community, you agree to the following:
 
 # Moderation
 
-These are the policies for upholding our community’s standards of conduct. If you feel that a thread needs moderation, please contact anyone on the moderation team, or any employee of the Scala Center.
+These are the policies for upholding our community’s standards of conduct. If you feel that a thread needs moderation, please contact anyone on the moderation team, or any member of Scala Barcelona Meetup.
 
 - Remarks that violate the above code of conduct, including hateful, hurtful, oppressive, or exclusionary remarks, are not allowed. (Cursing is allowed, but never targeting another user, and never in a hateful manner.)
 - Moderators will warn users who make remarks inconsistent with the above code of conduct.
@@ -46,10 +46,7 @@ In the Scala community we strive to go the extra step to look out for each other
 
 If someone takes issue with something you said or did, resist the urge to be defensive. Rather, stop the offending behavior, apologize, and be sensitive thereafter. Even if you feel you were misinterpreted or unfairly accused, chances are good there was something you could’ve communicated better — remember that it’s your responsibility to make your fellow Scala developers comfortable. We are all here first and foremost because we want to talk about cool technology, and everyone wants to get along in doing so. People are generally eager to assume good intent and forgive.
 
-# Domain
 
-The enforcement policies listed above apply to all official Scala channels: mailing lists, GitHub repositories and Gitter channels under scala and scalacenter, Discourse, and Scala Center venues and hackathons. For other projects adopting the Scala Code of Conduct, please contact the maintainers of those projects for enforcement. If you wish to use this code of conduct for your own project, consider explicitly mentioning your moderation policy or making a copy with your own moderation policy so as to avoid confusion.
-Credits
 
 Adapted from and/or inspired by multiple successful Codes of Conduct, including:
 
